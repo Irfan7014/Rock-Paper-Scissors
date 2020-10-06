@@ -17,6 +17,7 @@ public class Exit extends javax.swing.JFrame {
     /**
      * Creates new form Exit
      */
+    // this is a constructor
     public Exit() {
         initComponents();
         Color backgroundcolor=new Color(0,0,0);
